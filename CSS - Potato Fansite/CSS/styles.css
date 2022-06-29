@@ -1,0 +1,25 @@
+/***TAG SELECTORS***/
+ body {
+   background-color: #FFE69A;
+ }
+
+ h1 {
+   color: #D7A86E;
+   font-size: 120px;
+   }
+
+   p {
+     color: #BE8C63;
+   }
+
+/***IMAGE SELECORS***/
+.potato:hover{
+  background-color: #9FE6A0;
+}
+.coconut:hover {
+  background-color: #FF6B6B;
+}
+
+img{
+  width: 300px;
+}
